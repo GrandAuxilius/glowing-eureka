@@ -11,6 +11,6 @@
 3. 
 
 ### IDE
-1. 
-2. 
-3. 
+1. VS Code
+2. Intellij IDEA
+3. PyCharm
